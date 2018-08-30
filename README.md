@@ -1,2 +1,4 @@
-# Ajax-SPA
-利用ajax实现管理后台系统单页(SPA)框架 无刷新页面内容切换 管理后台切换页面
+# CRM-后台管理系统框架搭建
+
+告别传统的iframe。不借用Angular，vue等路由。
+没有服务器的环境下运行index.html
